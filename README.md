@@ -1,6 +1,7 @@
 # JS Hoisting - Tested
 
-```const sumCons = (a, b) => a + b;
+```
+const sumCons = (a, b) => a + b;
 
 console.log(`sumFunc => ${sumFunc(1, 2)}`);
 
